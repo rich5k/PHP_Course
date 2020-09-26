@@ -6,8 +6,8 @@
 </head>
 <body>
     <?php
-        echo "Hello World";
-        echo 'Sup world!';
+        $name = "Richie";
+        echo "Hello World. This is {$name}";
     ?>
 </body>
 </html>
